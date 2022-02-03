@@ -3,7 +3,7 @@
 Try this One ;)
 
 
-procédure tri_selection_cc (liste L)
+Fun tri_selection_cc (liste L)
    n ← taille de L
    pour i allant de 1 à n-(i+1)
       min ← i
@@ -15,3 +15,5 @@ procédure tri_selection_cc (liste L)
          échanger L[i] et L[min]
    fin pour
 fin procédure
+
+@chaoukicopyright
